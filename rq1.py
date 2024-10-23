@@ -1,5 +1,5 @@
 '''
-Akond Rahman 
+Akond Rahman / Mary Ann Hollinghead(WS9)
 May 04, 2020 
 Answer to RQ1 
 '''
